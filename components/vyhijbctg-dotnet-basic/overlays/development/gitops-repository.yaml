@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vyhijbctg-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/vyhijbctg-dotnet-basic-gitops
